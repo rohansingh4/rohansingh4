@@ -27,13 +27,6 @@ I build secure, scalable, multi-chain DeFi infrastructure across public and ente
 - **[Kosh](#)** – Smart Account Abstraction  
   Non-custodial wallet infra with MPC + threshold signing for EVM and non-EVM chains
 
----
-
-### 🌍 Recent Work
-- ✅ [Arbitrum zkCross Exchange](https://arb.zkcross.exchange/)  
-- ✅ [Partisia AMM DEX](https://partisia.zkcross.exchange/)
-- ✅ [Stellar zkCross Exchange](https://stellar.zkcross.exchange/) 
-- ✅ [Starknet Telegram Trading Bot](https://web.telegram.org/k/#@sideStarkBot)
 
 ---
 
