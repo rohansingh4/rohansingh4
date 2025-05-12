@@ -19,7 +19,7 @@ I build secure, scalable, multi-chain DeFi infrastructure across public and ente
 
 ---
 
-### 🔗 What I’m Building
+### 🔗 What I’m Building right now, I will make both open-source after first MVP release.
 - **[Setu](#)** – Decentralized Bridge Protocol  
   Built on ICP's Threshold Schnorr Signers — no cloud, no backend, no key management.  
   Bridges: Stellar, Solana, Sui, EVM, Hedera
@@ -27,6 +27,14 @@ I build secure, scalable, multi-chain DeFi infrastructure across public and ente
 - **[Kosh](#)** – Smart Account Abstraction  
   Non-custodial wallet infra with MPC + threshold signing for EVM and non-EVM chains
 
+---
+
+## 🌍 Recent Work Showcase
+
+- ✅ [Arbitrum zkCross Exchange](https://arb.zkcross.exchange/)
+- ✅ [Partisia AMM DEX](https://partisia.zkcross.exchange/)
+- ✅ [Stellar zkCross Exchange](https://stellar.zkcross.exchange/)
+- ✅ [Starknet Telegram Trading Bot](https://web.telegram.org/k/#@sideStarkBot)
 
 ---
 
