@@ -31,6 +31,7 @@ I build secure, scalable, multi-chain DeFi infrastructure across public and ente
 
 ## 🌍 Recent Work Showcase
 
+- ✅ [Kabal Fun on Solana](https://kabalfun.netlify.app/)
 - ✅ [Arbitrum zkCross Exchange](https://arb.zkcross.exchange/)
 - ✅ [Partisia AMM DEX](https://partisia.zkcross.exchange/)
 - ✅ [Stellar zkCross Exchange](https://stellar.zkcross.exchange/)
