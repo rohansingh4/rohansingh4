@@ -24,13 +24,13 @@ I build secure, scalable, multi-chain DeFi infrastructure across public and ente
   Built on ICP's Threshold Schnorr Signers — no cloud, no backend, no key management.  
   Bridges: Stellar, Solana, Sui, EVM, Hedera
 
-- **[Kosh](#)** – Smart Account Abstraction  
+- **[Kosh](https://jkk2b-kqaaa-aaaam-aelzq-cai.icp0.io/)** – Smart Account Abstraction  
   Non-custodial wallet infra with MPC + threshold signing for EVM and non-EVM chains
 
 ---
 
 ## 🌍 Recent Work Showcase
-
+- ✅ [Kosh Wallet- Solana L2](https://jkk2b-kqaaa-aaaam-aelzq-cai.icp0.io/)
 - ✅ [Kabal Fun on Solana](https://kabalfun.netlify.app/)
 - ✅ [Arbitrum zkCross Exchange](https://arb.zkcross.exchange/)
 - ✅ [Partisia AMM DEX](https://partisia.zkcross.exchange/)
