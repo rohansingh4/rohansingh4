@@ -1,36 +1,39 @@
 ## Hi there 👋 I'm Rohan
 
-**Blockchain Developer**  
+**Backend & Blockchain Systems Engineer**
 📍 Gurugram, India • 📧 rohan.singh1104@gmail.com
 
 ---
 
 ### 🧠 About Me
-Passionate about decentralization, especially in the context of **chain abstraction**.  
-I build secure, scalable, multi-chain DeFi infrastructure across public and enterprise blockchains.
+
+Backend & Blockchain Systems Engineer with 5 years of experience building distributed backend systems, smart contract protocols, and AI-driven automation platforms. Strong expertise in Rust and Solidity, Node.js backend services, and enterprise blockchain systems (Hyperledger Fabric). Proven track record delivering audited cross-chain infrastructure, AMM DEXs, non-custodial DeFi systems, and applied AI pipelines with real production adoption.
 
 ---
 
 ### 🛠️ Skills
-- **Languages**: Rust, Solidity, JavaScript  
-- **Chains**: Ethereum, Stellar, Hedera, Starknet, Partisia, Hyperledger Fabric  
-- **Infra**: AWS EC2, Docker, IPFS  
-- **Extras**: ZK Proofs, MPC, Account Abstraction, Smart Contract Audits
+
+- **Languages**: Rust, Solidity, JavaScript, TypeScript, Go, Python, SQL
+- **Backend & Infra**: Node.js, Express, REST APIs, MongoDB, CouchDB, Docker, AWS EC2, CI/CD, Kubernetes
+- **Blockchain**: Ethereum, Stellar, Solana, ICP, Hedera, Hyperledger Fabric, Bitcoin
+- **AI / ML**: YOLOv5, YOLOv8, TensorFlow, CVAT
 
 ---
 
-### 🔗 What I’m Building right now, I will make both open-source after first MVP release.
-- **[Setu](#)** – Decentralized Bridge Protocol  
-  Built on ICP's Threshold Schnorr Signers — no cloud, no backend, no key management.  
-  Bridges: Stellar, Solana, Sui, EVM, Hedera
+### 🔗 What I'm Building
 
-- **[Kosh](https://jkk2b-kqaaa-aaaam-aelzq-cai.icp0.io/)** – Smart Account Abstraction  
-  Non-custodial wallet infra with MPC + threshold signing for EVM and non-EVM chains
+- **[Kosh](https://mykosh.app/)** – Keyless Wallet
+  Private keys generated using threshold cryptography and processed using ICP's management canister. Non-custodial wallet infrastructure with MPC + threshold signing for secure multi-chain access.
+
+- **[SurfLiquid](https://surfliquid.com)** – AI-Driven DeFi Automation
+  Non-custodial DeFi automation platform optimizing capital allocation across Morpho vaults and on-chain strategies, delivering ~20% APR. Currently managing $5.0M+ optimized volume with AI-managed APY of 47.93%.
 
 ---
 
 ## 🌍 Recent Work Showcase
-- ✅ [Kosh Wallet- Solana L2](https://jkk2b-kqaaa-aaaam-aelzq-cai.icp0.io/)
+
+- ✅ [SurfLiquid](https://surfliquid.com/)
+- ✅ [Kosh Wallet](https://mykosh.app/)
 - ✅ [Kabal Fun on Solana](https://kabalfun.netlify.app/)
 - ✅ [Arbitrum zkCross Exchange](https://arb.zkcross.exchange/)
 - ✅ [Partisia AMM DEX](https://partisia.zkcross.exchange/)
@@ -40,8 +43,7 @@ I build secure, scalable, multi-chain DeFi infrastructure across public and ente
 ---
 
 ### 📫 Contact & Connect
-- [LinkedIn](https://www.linkedin.com/in/rohansingh411/) • [Twitter](https://x.com/zkSinghh) • [GitHub](https://github.com/rohansingh1104)
+
+- [LinkedIn](https://www.linkedin.com/in/rohansingh411/) • [Twitter](https://x.com/rohans411) • [Telegram](@rohans411)
 
 ---
-
-*Open to collaborations on decentralized infra, ZK tech, and cross-chain systems.*
