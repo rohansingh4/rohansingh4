@@ -26,7 +26,7 @@ Backend & Blockchain Systems Engineer with 5 years of experience building distri
   Private keys generated using threshold cryptography and processed using ICP's management canister. Non-custodial wallet infrastructure with MPC + threshold signing for secure multi-chain access.
 
 - **[SurfLiquid](https://surfliquid.com)** – AI-Driven DeFi Automation
-  Non-custodial DeFi automation platform optimizing capital allocation across Morpho vaults and on-chain strategies, delivering ~20% APR. Currently managing $5.0M+ optimized volume with AI-managed APY of 47.93%.
+  Non-custodial DeFi automation platform optimizing capital allocation across Morpho vaults and on-chain strategies, delivering ~20% APR. Currently managing $5.0M+ optimized volume with AI-managed APY of 20% +
 
 ---
 
