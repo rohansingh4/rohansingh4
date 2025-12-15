@@ -44,6 +44,6 @@ Backend & Blockchain Systems Engineer with 5 years of experience building distri
 
 ### 📫 Contact & Connect
 
-- [LinkedIn](https://www.linkedin.com/in/rohansingh411/) • [Twitter](https://x.com/rohans411) • [Telegram](@rohans411)
+- [LinkedIn](https://www.linkedin.com/in/rohansingh411/) • [Twitter](https://x.com/rohans411)
 
 ---
